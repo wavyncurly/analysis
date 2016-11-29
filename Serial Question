@@ -1,0 +1,15 @@
+---
+layout: page
+title: <!--- Fleet Tracking --->
+author: Jacob Stefonek
+
+#**Fleet Tracking**
+
+My serial question is, "Where were the Russian and Japanese fleets during the year of 1905?" I am asking this question because the Russo-Japanese war occured during this time and the two military powers engaged in quite a bit of naval combat. We know the Japanese won the war and we are aware of the major battles that occured at sea. The information in the Egyptian Gazette can provide a wealth of ship names, smaller skirmishes, admirals and fleet movements that would otherwise go unmentioned in most historical collections. 
+
+I am querying the text for terms such as: "navy", "Rodjestvensky", "Togo", "fleet" and "battle". After searching with each key word, I find each piece of naval information that relates to my question and record the date, location and details of what occured. Then, using Google Maps, I plot points at the various locations of naval action and tag them with a description of the available information. The points are numbered in order of date to provide logical progression of fleet movements. 
+
+I also created three different layers for my points. The first layer is for movements of the Russian fleet, which is colored blue. The second layer is for instances involving the Japanese fleet and these points are colored red. The third and final layer is colored purple and reserved for points of engagement between the Russians of the Japanese. The three layers can be added and removed as the viewer pleases, allowing for the rather complicated map to be cleaned up. 
+
+[Serial Example](Serial Example.png). 
+---
