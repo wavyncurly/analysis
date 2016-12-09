@@ -3,7 +3,7 @@ layout: page
 title: <!--- Global Diplomatic Influence on Egypt--->
 author: LoganWills
 image:
-thumb:![Image label](Blog-post-3-image.png)
+thumb:(Blog-post-3-image.png)
 ---
 
 
