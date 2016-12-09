@@ -1,8 +1,18 @@
 ---
 layout: page
 subheadline: "Your name"
+title: "Post title"
+teaser: "One liner"
+date: 2016-00-00 <!--- date of post submission --->
+categories:
+- curiosities
 author: yourname <!--- all one word --->
+tags:
+- tag
+header: no
 image: <!--- ../../../Desktop/Blog-post-3-image.png --->
+title: blog-images/image-name.png
+thumb: ../../../Desktop/Blog-post-3-image.png
 ---
 
 
