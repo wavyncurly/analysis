@@ -7,7 +7,7 @@ thumb:![Image label](../Blog%20posts/Blog%20Post%203/Blog-post-3-image.png)
 ---
 
 ####Global Diplomatic Influence on Egypt
-    The *Egyptian Gazette* was a popular newspaper company that first published its one of a 
+The *Egyptian Gazette* was a popular newspaper company that first published its one of a 
 kind for the Middle East English newspaper in the year 1880, and enjoyed a long tenure of 
 success.  The paper covered a range of topics anywhere from the daily necessities such as 
 weather reports, stock exchanges, and market prices, to bold current event storylines.  Records 
@@ -31,7 +31,7 @@ analysis of the paper.  The writers of the *Egyptian Gazette* seemed to personif
 mentality throughout the nation of Egypt, being aware of global affairs, yet seemingly only 
 interested in remaining neutral in the pursuit of national economic benefit.
 
-    Through the coding and labeling of the full year of 1905 in a single and complete 
+Through the coding and labeling of the full year of 1905 in a single and complete 
 database, querying for specific keywords, data tables, or quantities produced rapid results.  In 
 the pursuit of better understanding the effects European and Asian powers had on the 
 Egyptians, looking into the development of certain treaties between nations led to plenty of 
@@ -45,7 +45,7 @@ year’s issue regarding these keywords, large sections of data were discovered 
 writer’s views of the effects these global affairs would have on the Egyptian people, as well as 
 what they believed the best course of action would be in response.  
 
-    From the compilation of these treaties, city names, and places of war through querying, 
+From the compilation of these treaties, city names, and places of war through querying, 
 a number of potential visual representations were available.  In the case of this analysis a map 
 was produced marking the location of major treaty signings and major battle points, along with a 
 brief description of the situation at each location.  This was done through utilizing a data 
@@ -62,7 +62,7 @@ customized tables or graphs, making this process necessary.  The map provides a 
 aid to help better understand global affairs of the time, as well as set the stage for the analysis 
 of the writers’ views of these global affairs.
 
-    Through the compilation of all these global affairs topics, it is much easier to look into 
+Through the compilation of all these global affairs topics, it is much easier to look into 
 what exactly the effects these affairs would have had on the everyday Egyptian citizen, as 
 evident in the stories composed by the writers of the *Egyptian Gazette*.  Of course, the primary 
 role of the writers was to relay the news of these events.  The most highly covered storyline 
@@ -83,7 +83,7 @@ territorial targets, the nation of India and its land in Afghanistan comes to th
 conflict.  This represents a far more localized center of conflict to the nation of Egypt, and 
 certainly represents a talking point within the paper.  
 
-    The year of 1905 represents a major point of European influence throughout the African 
+The year of 1905 represents a major point of European influence throughout the African 
 continent as the pursuit of resources and colonies was highly sought after.  Throughout the 
 *Egyptian Gazette*, another major storyline of diplomatic influence from European nations comes 
 with French and British prominence throughout Egypt and Morocco, a nation slightly west of 
@@ -105,7 +105,7 @@ in Morocco did appear from time to time.  The tone of writing regarding the Germ
 held a slight more suspicious format, potentially because of their relationship with Russia, which 
 they were later discovered to have a secret alliance with one another.
 
-    The analysis of micro historical topics surrounding a piece of literature evident in the 
+The analysis of micro historical topics surrounding a piece of literature evident in the 
 average citizen’s everyday life is an extremely interesting topic.  Looking into the drastic 
 changes that can take place within a nation even over the period of only one year creates a     
 sense of appreciation for the importance and expanse history really offers.  Through scanning 
