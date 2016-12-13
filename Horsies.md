@@ -1,6 +1,6 @@
 ---
 layout: page
-title: < Who is the Fastest Horse in Alexandria>
+title: Who is the Fastest Horse in Alexandria
 author: MatthewCooper
 ---
  #Who is the Fastest Horse in Alexandria#
