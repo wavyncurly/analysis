@@ -1,5 +1,20 @@
 ---
 layout: page
-title: Cotton Prices throughout the Year
+title: Fluctuation in Egyptian Cotton Exports Throughout the Year
 author: DanteGrieco
+
+For millennia, cotton has been cultivated extensively in Egypt along the banks of
+the Nile Valley.
+
+My serial question involves looking at a snapshot in the historical trends of the
+cotton trade in colonial Egypt. During Egypt’s years under British colonial rule,
+cotton became an incredibly significant and profitable cash crop. Following the
+decline in American cotton production because of the American Civil War, England
+turned to Egyptian cotton as a source of profitable trade within its empire. To
+gain a sense how the cotton trade behaved during this period, my analysis uses
+data sourced from cotton export reports from various issues of the English/French
+language financial newspaper The Egyptian Gazette over the course of the year 1905.
+Specifically, the data looks at the amount of cotton exported to certain countries
+on a monthly basis.
+
 ---
