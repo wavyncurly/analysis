@@ -1,3 +1,4 @@
+---
 layout: page
 title: "Current Plans for Final Project/Serial Question"
 teaser: "My current plans for the final project for IFS 2116."
