@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <!--- Fleet Tracking --->
+title: Fleet Tracking
 author: Jacob Stefonek
-
+---
 #**Fleet Tracking**
 
 Please click [here](https://www.google.com/maps/@15.4200469,40.3520146,3z/data=!3m1!4b1!4m2!6m1!1s1CWd7cdi_tApAVJFwYXbqsVxbDYM) to access my data visualization.
