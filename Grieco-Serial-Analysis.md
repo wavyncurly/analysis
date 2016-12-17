@@ -2,7 +2,7 @@
 layout: page
 title: Fluctuation in Egyptian Cotton Exports Throughout the Year
 author: DanteGrieco
-
+---
 For millennia, cotton has been cultivated extensively in Egypt along the banks of
 the Nile Valley.
 
