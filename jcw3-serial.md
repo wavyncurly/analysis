@@ -18,3 +18,8 @@ I would imagine that it's going to be mostly a mixture of economic interests, cu
 
 In short, my paper is largely going to be around analyzing the reasons behind why particular nations and countries were mentioned more often than others, and perhaps
 why some countries weren't mentioned at all.
+
+## later
+Here's a link to it just in case. It might not work as a standard xlsx file, I'm not sure, it's gone both ways, but just in case, here's the link. I did, in fact, do the work.
+
+https://docs.google.com/spreadsheets/d/1zLgicH8_-uWgo_B-rnv5zX1_2MTYGxqwfbABuMq5XTI/edit#gid=0
