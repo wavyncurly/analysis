@@ -1,4 +1,7 @@
-Advertising in Alexandria Egypt 1905
+---
+title: Advertising in Alexandria Egypt 1905
+author: Olivial Evanoff
+---
 
 Alexandria Egypt in 1905 kept a record of the news they deemed to be
 important via their newspaper. The title of the newspaper is "The Egyptian
