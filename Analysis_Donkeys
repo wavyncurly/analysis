@@ -16,18 +16,18 @@ I realized that although my original article focused on the “donkey-boys”, i
 
 <b>XPATH Query</b>
 
-To practically answer this question, I needed to create an XML search query. This allows me to search all the issues of the newspaper that have been uploaded to our content repository on Github, effectively searching through every daily issue of the Egyptian Gazette from 1905 and 1906 that has been completed. An XML search basically needs two things: a WHERE, and a WHAT.
+To practically answer this question, I needed to create an XML search query. This allows me to search all the issues of the newspaper that have been uploaded to our content repository on Github, effectively searching through every daily issue of the Egyptian Gazette from 1905 and 1906 that has been completed. An XML search basically needs two things... a WHERE, and a WHAT.
 
 <i>  What?</i>
 
-My “what” was easy: donkeys. I knew that I need to try to find every reference to donkeys that I could. I realized that there is more than one word for donkey, but after some preliminary searching, I saw that the most common substitute turned up primarily the word “association”. It seemed like donkey was the term of the land for the creature.
+My “what” was easy... donkeys. I knew that I need to try to find every reference to donkeys that I could. I realized that there is more than one word for donkey, but after some preliminary searching, I saw that the most common substitute turned up primarily the word “association”. It seemed like donkey was the term of the land for the creature.
 
 <i>Where?</i>
 
 As discussed before, I needed to find every mention of donkeys that I could. I might find these mentions on page 2, 3, 4, anywhere. However, I knew that I wouldn’t find the references in a specific advertisement or table as many of my classmates would. Therefore, I made my search a general search for the word “donkey”.
 //p[contains(.,"donkey")]
 
-However, XML searches are case sensitive. I still had one more search to do:
+However, XML searches are case sensitive. I still had one more search to do.
 //p[contains(.,”Donkey")]
 
 I collected my results for the first query on Friday April 21st at 4:28 p.m. and the second query at 5:35 p.m. on Friday, April 21st. Then, I organized them by topic and formulated the results section of this paper.
@@ -38,26 +38,32 @@ Not all of the articles were corrected perfectly from the OCR software, so I had
 
 <b>Results</b>
 
-From the XPATH query, I found 41 mentions of the word “donkey”. In addition, I found 21 occurrences of the word with its first letter capitalized. Every article and the date can be found in the appendix of this paper. There are not 41 entries in the appendix because sometime the word appeared more than once in an article that was a continuation of the same topic. As discussed in a previous section, I organized them by subject. There were a handful of articles that did not fit into any of the categories, such as the one-off use of the phrase “Donkey Tail Principle”, and in a mention of horse shows. The topics were as follows:
+From the XPATH query, I found 41 mentions of the word “donkey”. In addition, I found 21 occurrences of the word with its first letter capitalized. Every article and the date can be found in the appendix of this paper. There are not 41 entries in the appendix because sometime the word appeared more than once in an article that was a continuation of the same topic. As discussed in a previous section, I organized them by subject. There were a handful of articles that did not fit into any of the categories, such as the one-off use of the phrase “Donkey Tail Principle”, and in a mention of horse shows. The topics were as follows...
 
-<i>Donkey Racing: 10 occurrences</i>
-	Donkey Racing mentions occurred at any time of the year. There were some in January, February, April, May, June August, and December. Therefore, donkey racing does not seem to be a seasonal sport. Many of the articles included who won which race, what times the races would occur, and information along those same lines. On August 16th, 1906 donkey races are described as “modest”. There was a variations of donkey racing that I found interesting. On June 1st, 1905. This article mentions that one of the sports they performed were Tug-of-War on donkeys!
+<i> Donkey Racing - 10 occurrences</i>
 
-<i>Donkey Boys: 6 occurrences</i>
-	Piecing together the persona of donkey boys has been surprising. Their appearance must have been distinct because on March 12th, 1906, Mr. Firth was reported as dressing as one for a costume party. It was also reported that a man named Mohamed Dodo owns 60 donkeys and donkey boys. That means that these people are likely viewed as (at least) second class citizens due to the fact that they can be owned.
-	Although the original article I found negatively portrayed the donkey boys, I found two separate events that praise donkey boys for their action. On May 24th, 1905, a group of people had stones being thrown at them, but the donkey boys were not among those throwing the stones. Also, in July of 1905, there was a man who was beaten by someone, and the donkey boys were eyewitnesses and testified as to who the abuser was. The praise may stem from them typically being considered nuisances, but I think that with this little information, it is unfair to make that broad assumption.
+Donkey Racing mentions occurred at any time of the year. There were some in January, February, April, May, June August, and December. Therefore, donkey racing does not seem to be a seasonal sport. Many of the articles included who won which race, what times the races would occur, and information along those same lines. On August 16th, 1906 donkey races are described as “modest”. There was a variations of donkey racing that I found interesting. On June 1st, 1905. This article mentions that one of the sports they performed were Tug-of-War on donkeys!
 
-<i>Animal Cruelty: 4 occurrences</i>
-	There seems to be a vocalized care for the treatment of animals throughout the paper, which includes care for donkeys. The SPCA (Society for the Prevention of Cruelty to Animals) made strides for the protection of donkeys. In March of 1905, they declared that no longer would the same yolks that are meant for Buffalos be allowed on donkeys. That September, 82 donkeys were treated by at the animal hospital. From January 10th-April 24th, 301 donkeys were treated.
+<i> Donkey Boys- 6 occurrences</i>
 
-<i>Crimes: 3 occurrences</i>
-	Two occurrences focused on their donkeys being stolen, which means that donkeys were valuable enough for someone to care that they were missing. In August of 1906, a man was arrested for murdering his servant because his servant lost his donkey’s stirrups.
+Piecing together the persona of donkey boys has been surprising. Their appearance must have been distinct because on March 12th, 1906, Mr. Firth was reported as dressing as one for a costume party. It was also reported that a man named Mohamed Dodo owns 60 donkeys and donkey boys. That means that these people are likely viewed as (at least) second class citizens due to the fact that they can be owned.
+Although the original article I found negatively portrayed the donkey boys, I found two separate events that praise donkey boys for their action. On May 24th, 1905, a group of people had stones being thrown at them, but the donkey boys were not among those throwing the stones. Also, in July of 1905, there was a man who was beaten by someone, and the donkey boys were eyewitnesses and testified as to who the abuser was. The praise may stem from them typically being considered nuisances, but I think that with this little information, it is unfair to make that broad assumption.
 
-<i>Transportation and trade: 17 occurrences</i>
-	It was common for reporting to be done on people traveling by donkey. Even the Khedival family traveled by donkey (February 1st, 1905). They were used not only to transport people, but also for trade purposes. The donkeys were traded, and things they transported were traded too, such as wood and other heavy things. They’re mentioned as being a part of street clutter on September 5th 1906. As of September 1st of 1905, it was mentioned that “despite trains”, donkeys were still the preferred method of transportation. However, an article from May 19th, 1906 states that the train was replacing the donkey as a form of transportation.
+<i>Animal Cruelty- 4 occurrences</i>
 
-<i>In Art: 2 occurrences</i>
-	Donkeys were featured on art, mentioned February,1905. There was a play called “Darktown Donkey Race” put on by people in Alexandria. I believe it to be a musical because there was another article about how a band played a song from the production.
+There seems to be a vocalized care for the treatment of animals throughout the paper, which includes care for donkeys. The SPCA (Society for the Prevention of Cruelty to Animals) made strides for the protection of donkeys. In March of 1905, they declared that no longer would the same yolks that are meant for Buffalos be allowed on donkeys. That September, 82 donkeys were treated by at the animal hospital. From January 10th-April 24th, 301 donkeys were treated.
+
+<i>Crimes- 3 occurrences</i>
+
+Two occurrences focused on their donkeys being stolen, which means that donkeys were valuable enough for someone to care that they were missing. In August of 1906, a man was arrested for murdering his servant because his servant lost his donkey’s stirrups.
+
+<i>Transportation and trade:-17 occurrences</i>
+
+It was common for reporting to be done on people traveling by donkey. Even the Khedival family traveled by donkey (February 1st, 1905). They were used not only to transport people, but also for trade purposes. The donkeys were traded, and things they transported were traded too, such as wood and other heavy things. They’re mentioned as being a part of street clutter on September 5th 1906. As of September 1st of 1905, it was mentioned that “despite trains”, donkeys were still the preferred method of transportation. However, an article from May 19th, 1906 states that the train was replacing the donkey as a form of transportation.
+
+<i>In Art- 2 occurrences</i>
+
+Donkeys were featured on art, mentioned February,1905. There was a play called “Darktown Donkey Race” put on by people in Alexandria. I believe it to be a musical because there was another article about how a band played a song from the production.
 
 In sum, donkeys seem to be a common, but fading part of the transportation/trade portion of people’s lives in Egypt in 1905/1906, as represented by the Egyptian Gazette. When donkeys weren’t used for trading, they were frequently used for racing. Although donkey boys may not have been held to the highest opinion, the SPCA still cared about the wellbeing of donkeys.
 
@@ -69,7 +75,7 @@ For the visualization of this data, I created a word cloud of all of the appeari
 
 <b>Appendix</b>
 
-The following articles containing “donkey” or “Donkey” are organized by date, earliest to latest:
+The following articles containing “donkey” or “Donkey” are organized by date, earliest to latest-
 
 <i>January 1st, 1905</i>
 1. Donkey Race for Gentlemen.
@@ -171,7 +177,7 @@ MAITRE-ALBRECHT'S ACCIDENT.
 
 <i>March 7th, 1905</i>
 
-A Cairo correspondent writes : — Cannot something be said or done to abate
+A Cairo correspondent writes — Cannot something be said or done to abate
                         the great­est nuisance and offence of Cairo, the donkey- boys to wit 1 The
                         shoeblacks, match-sellers, and others are improving daily ; we are no louger
                         pestered except by isolated specimens; and those have the excuse of extreme
@@ -179,7 +185,7 @@ A Cairo correspondent writes : — Cannot something be said or done to abate
                         He is usually an "adult," of a very low class, and up Jo the eyes steeped in
                         vice ; that we all know, we need not enlarge thereon. Happily one does not
                         need to pause and hear what “induce­ments” he has to offer for one’s
-                        patronage : but he should surely be absolutely forbidden (as is now largely
+                        patronage  but he should surely be absolutely forbidden (as is now largely
                         the case at Meoa House) to accost or speak to people l for in this he is our
                         "béte noire." It is impossible to walk quietly past a group of donkey-boys
                         without “Coming, sarr, nioe donkey, sarr,” and much more howled at one, or
@@ -193,7 +199,7 @@ A Cairo correspondent writes : — Cannot something be said or done to abate
                         an insult How often has it not infariated me when walking peacefully along
                         the streets 1 As if I wanted to ride a donkey, or as if I hadn’t a tongue in
                         my head, or a pair of eyes, to speak and choose for myself as I would a cab.
-                        I appeal to the authorities : it would be so easy to give a general order
+                        I appeal to the authorities  it would be so easy to give a general order
                         that none ol these people are to acoost passers ; they are all numbered, all
                         have their regular stands aud ranks. Almost always a "shawish” is somewhere
                         within reach ; and if one or two examples were made, we should soon find the
@@ -296,7 +302,7 @@ The "demi-monde" no longer exists in exactly the same manner in which it
 
 <i>May 24th, 1905<i>
 
-	Annoyances of Tourists.—A party of twenty tourists went to Sakkara on Monday.
+Annoyances of Tourists.—A party of twenty tourists went to Sakkara on Monday.
                         The guardian of the rains refused to recognise their tickets of admission. A
                         heated debate followed, which was adjourned to Marietta's house. No
                         satisfaction followed. On emerging the tourists found a-horde of threatening
@@ -337,7 +343,7 @@ By kind permission of Col. C.J. Markham and officers, the band of the 1st
 A very successful donkey gymkhana was held at Port Said on Saturday last,
                             under the patronage of H.E. the Governor-General of the Canal, Mustapha
                             Ibady Pasha, and was well attended, there being numerous entries for the
-                            various events. Results were as follow:
+                            various events. Results were as follow
 
 VIII. Tug-of-war on donkeys.—A.V. Wallis’ team, which won twice against
                             J. Chesman’s team, included Messrs. Tweedie, Tunstall, Warner, Norman,
@@ -601,7 +607,7 @@ The following was the programme:- 1 Bishareen Arab Race (Sack) 2 Native Water-Ca
 
   6 1/2d.r oke; eggs three for 1 1/4d.; wood and fuel, unchopped, 7s. per
                         donkey load, chopping 1s. extra; butter 2s. 3d. to 2s. 8d. per lb.;
-                        servants’ wages: cooks £2 to £3 per month; houseboys 30s. to 50s. per month,
+                        servants’ wages cooks £2 to £3 per month; houseboys 30s. to 50s. per month,
                         exclusive of food which is always supplied to them. House rent ranges from
                         £25 to £60 per annum; scarcely a house can be found outside the town for
                         less than £30 p.a., and for sanitary reasons most English object to living
@@ -650,7 +656,7 @@ The following was the programme:- 1 Bishareen Arab Race (Sack) 2 Native Water-Ca
 <i>April 2nd, 1906</i>
 
 Donkey race for Gentlemen.—12 started. Capt. Mackenzie, 1st; Mr. Goodchild, 2nd.
-Hand-in-hand Race for Ladies and Gents on Donkeys : each pair had to hold oppo¬-site ribbon. 14 started. Winners : Miss Nelly Farrar and Mr. Morris.
+Hand-in-hand Race for Ladies and Gents on Donkeys each pair had to hold oppo¬-site ribbon. 14 started. Winners Miss Nelly Farrar and Mr. Morris.
 Ladies’ Donkey Race. Distance 300 yards, 12 started. 1st, Mrs. Stubbs ; 2nd, Miss H. Farrar.
 Ladies’ Nomination Race on horses. This was by far the most interesting race of the programme. Competitors had to light a cigar, get into costume assisted by ladies, open umbrella, mount a horse, ride round post 300 yards and home. Some excellent costumes had been provided by the management of Mena House Hotel and drivers were cheered with great enthusiasm. Mr. Moberley was first and Mr. Dickenson was rewarded for having the best costume.
 Open Donkey Race for ladies and gentle¬men. — 16 started. Miss Nelly Farrar, 1st; Mr. Goodchild 2nd.
@@ -665,7 +671,7 @@ Apropos of the visit of Sir Edward Clarke to Egypt and the simultaneous attack m
                     of London because of his attitude respecting tariff reform, the "Westminster Gazette” prints a clever and very amusing cartoon
                     from the pencil of Mr. F. Carruthers Gould. Sir Edward, in full tourist costume, is pictured as seated on the back of a meek-looking donkey,
                     from which position he surveys the 8phinx, the latter bearing the features of Mr. Arthur Balfour, with the addition of the famous
-                    monocle of the member for West Birmingham. Sir Edward is represented as making the following comment: "Dear me, so that’s the Sphinx.
+                    monocle of the member for West Birmingham. Sir Edward is represented as making the following comment "Dear me, so that’s the Sphinx.
                     It’s uncommonly like both of them. I suppose it must be the effect of the mirage.”
 
 <i>April 24th, 1906</i>
@@ -743,7 +749,7 @@ Remarkable skill is shown by native trackers
 Yesterday the Alexandria Parquet authorities went to Ras el-Tin Hospital to
                         hear Private O’Brien’s statements in regard to the attack made against him
                         last week by some natives at Dekhela, near Mex. The soldier’s account of the
-                        incident was to the following effect: After receiving his week’s pay,
+                        incident was to the following effect After receiving his week’s pay,
                         amounting to 5 shillings at Mustapha barracks, O’Brien hired a cab at P.T. 4
                         to drive him to a place near the Mex slaughter-house, where cabs usually
                         stop, as the road further on is very bad. There he alighted and walked on
