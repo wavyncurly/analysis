@@ -5,12 +5,6 @@ title: Egyptian Economy in 1905-1906
 date: 2017-04-20
 author: AdrianMartinez
 header: _Land of Bank stock Prices_
-image:
-  title:
-  thumb: 
-  homepage:
-  caption: <!--- info about the image, such as date of issue --->
-  caption_url: <!--- link-to-page-containing-text? --->
 ---
 My goal throughout my research in The Egyptian Gazette was see if there was a way to determine when there were ups and downs in the economy during the years of 1905 and 1906. More importantly, my focus was primarily on the “Land Bank of Egypt” stocks and prices throughout these two years. I found it easier to study this specific bank because it had the most different and abundant data out of the other banks and stocks. I was hoping to encounter some significant highs or lows in these two years, and if I did find any I would dig deeper and find the cause of this fluctuation in the market.
 
