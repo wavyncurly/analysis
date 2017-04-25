@@ -38,7 +38,9 @@ Not all of the articles were corrected perfectly from the OCR software, so I had
 
 <b>Results</b>
 
-From the XPATH query, I found 41 mentions of the word “donkey”. In addition, I found 21 occurrences of the word with its first letter capitalized. Every article and the date can be found in the appendix of this paper. There are not 41 entries in the appendix because sometime the word appeared more than once in an article that was a continuation of the same topic. As discussed in a previous section, I organized them by subject. There were a handful of articles that did not fit into any of the categories, such as the one-off use of the phrase “Donkey Tail Principle”, and in a mention of horse shows. The topics were as follows...
+From the XPATH query, I found 41 mentions of the word “donkey”. In addition, I found 21 occurrences of the word with its first letter capitalized. Every article and the date can be found in the appendix of this paper. There are not 41 entries in the appendix because sometime the word appeared more than once in an article that was a continuation of the same topic. As discussed in a previous section, I organized them by subject. There were a handful of articles that did not fit into any of the categories, such as the one-off use of the phrase “Donkey Tail Principle”, and in a mention of horse shows. Below is a visualization of the different topics I organized the articles into. The bigger the circle, the more articles were in that category. More detail on the topics follows the visual.
+
+<img src = "topiccircles.jpg">
 
 <i> Donkey Racing - 10 occurrences</i>
 
@@ -72,6 +74,16 @@ In sum, donkeys seem to be a common, but fading part of the transportation/trade
 For the visualization of this data, I created a word cloud of all of the appearing in the same articles as the word donkey. I chose to do this because the words that most frequently occur with the word donkey should be an indication of what things were associated with donkeys, giving insight as to how they were perceived in early 20th century Egypt. Here is a word cloud of all of the words occurring in the same paragraphs. The bigger the word, the more often it occurred.
 
 <img src = "wordcloud.jpg">
+
+Although this looks nice, I have also developed a black and white version of the cloud. I did this because some colors stand out more. For example, it's easier to read the lighter ones than the darker ones. That should remove bias of some words seeming more important than others beacusse of color and not because of size.
+<img src = "wordcloudbw.jpg">
+
+The sizes of many of the words make sense! For example, "Race" is large. Racing was a popular topic as shown by the ciruclar visualizaton. "Boy" is another popular word, and my explanation is the same that of "Racing" being represented so boldly. Many of the months are featured in large print on the graphic. This is because I included all the dates of the articles in the document that I uploaded to create the word cloud. It does appear that the highest number of the articles occured in May, which is reflected in visualization. I'd like to note that Cairo was much larger than Alexandria. This may be attributed to their geographical location, given that Cairo was an inland city (unlike Alexandria), and more transportation/traveling would need to be done on land than by sea. Some interesting things that I found based on the visualizations were the size of the words O'Brien, Miss (especially compared to the size of Mrs. and Ms)
+
+<i>O'Brien</i> - Private O'Brien was the last name of the man who was attacked, that the donkeyboys testified for him in courts. There was a follow up of the trial. They simply used his name a lot when telling the whole story, so that is why his name appears to large in the infographic.
+<i>Miss</i> - There were two misses involved in a donkey race, and a long list of misses who attended a costume party. The party was the same one at which Mr. Firth dressed up as a donkey boy. It was strange, because there seemed to be many "Mr."s but that didn't seem highlighted as largely in the word cloud.
+<i>Following</i> - The newspaper used the word "following" to precede any sort of list. It wasn't that people with donkeys were following others, or there was a large fan club following donkeys, just a different, unrelated use of the word.
+<i>Accused</i> - accused was also used a lot because of the incident with O'Brien. Beyond that story, it was used very infrequently.
 
 <b>Appendix</b>
 
@@ -128,7 +140,8 @@ Yesterday afternoon’s pleasant fixture, the Mena House Gymkhana, was
                             provide lunch for the members who flocked out in the morning. The
                             following is a list of prize-winners:— „ Donkey Ram for Gentlemen. — 1.
                             Mr. Wright Anderson, 2. Mr. Paton, 3. Capt Curey.
- 	  Lamas Donkey Rat*.— 1. Miss Babs. HackRack—1. Mr. Colton Pox, 9. Mohamed
+
+ Lamas Donkey Rat*.— 1. Miss Babs. HackRack—1. Mr. Colton Pox, 9. Mohamed
                             Pouad Nomad, 3. Ahmed Pang Bey.
 
 <i> February 9th, 1905</i>
