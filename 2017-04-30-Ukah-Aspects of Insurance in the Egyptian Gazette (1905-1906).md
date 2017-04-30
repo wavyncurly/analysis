@@ -140,9 +140,9 @@ or personal knowledge, the context behind the ads and articles can be better und
 #####The Financial Context
 
 I originally intended to include analysis of insurance firms in financial tables in the _Gazette_, until I could not find any:
-searching table cells for insurance firms proved fruitless. I admit my knowledge of XPath and finance is limited, but there must be  
-_something_ of worth to find in that  newspaper, if not, perhaps through secondary sources. The Reuter's Telegrams and Share List  
-tables may be the best chances at finding potentially useful information in relation to insurance.
+searching table cells for insurance firms proved fruitless. I admit my knowledge of XPath and finance is limited, but there
+must be _something_ of worth to find in that  newspaper, if not, perhaps through secondary sources. The Reuter's Telegrams  
+and Share List tables may be the best chances at finding potentially useful information in relation to insurance.
 
 #####Faulty XPath Results and Limited Issues
 
