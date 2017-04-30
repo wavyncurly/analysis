@@ -23,6 +23,9 @@ Global warming has become an extremely well backed theory in the realm of scienc
 
 ### Works Cited
 http://www.reuters.com/article/us-climate-egypt-idUSTRE6AD1DI20101114
+
 https://en.wikipedia.org/wiki/Alexandria
+
 http://dateandtime.info/distanceequator.php?id=361058
+
 Digital Egyptian Gazette "Daily Weather Report" tables
