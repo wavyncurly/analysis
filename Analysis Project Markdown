@@ -70,7 +70,7 @@ Based on my research and analysis, the stronger one currency is in comparison
 to another, it takes less to purchase another currency, and vice versa. The two
 most expensive currencies were the Germany Cheque and Switzerland Cheque, as they
 both sold and could be purchased for about 475 Egyptian pounds. The most similar
-to the Egyptian currency was that of the London Cheque, as teh average buying
+to the Egyptian currency was that of the London Cheque, as the average buying
 and selling price was 96 2/5, and 97 57/73 respectively. I also needed to discover
 what exactly the difference was between "house paper" and "bank paper", as
 some of the listed currencies above had these distinguished variations. I found
@@ -83,27 +83,29 @@ Tableau program to create a map, and on the different cities or countries
 whose currencies are included in the "To-day's Exchange Quotations" table I would
 place a corresponding symbol, probably a dollar sign, on each of these cities.
 The more value that country's currency held, the larger the dollar sign or other
-symbol. However, I could not get Tableau to work on any machine that I had
-attempted to use. Nonetheless, I switched to Excel where I already had my
-filled out spreadsheet with the information. I decided to create a line graph,
-as I personally felt that it would be the easiest way to decipher the information
-provided. Most financial graphs presented today are in the form of a line graph,
-so it seemed fairly logical. Each different category had their own line with a
-unique, individual color. Within each currency, there were lines for both buying
-and selling, and for the currencies such as London cheque that had different
-variations such as "bank paper" and "house paper", which each had a corresponding
-line as well.
+symbol. I eventually decided to create a line graph,as I personally felt that
+it would be the easiest way to decipher the information provided. Most financial
+graphs presented today are in the form of a line graph, so it seemed fairly
+logical. I made three different graphs, one for London Cheque, one for Paris
+Cheque, and one for Vienna & Trieste Cheque. Each graph had their own color, to
+make sure that it was easy to distinguish one graph from another. Within each
+category of Cheque (London, Paris, and Vienna & Trieste), there was a graph
+for both the buying and selling counterparts.
 
-Once the graph rendered in Excel, it was very clear to see that most of the values
-exchange quotations for the different currencies remained relatively steady month
-after month between January 1905 to September 1906, which is all the data recorded.
+Once the graph rendered in the Tableau editing program, it was very clear to see
+that most of the values of exchange quotations for the different currencies
+remained relatively steady month after month over the years I studied.
 Each issue that has been analyzed that contained one of these tables is included
-in the final analysis. Most of the lines on the graph were fairly straight and
-even. There were a few dips in the data, but nothing substantial. Some of the
-currencies showed dips in the line on the graph due to lack of data on some dates.
-However, from day to day issues, the values didn't vary by much, if at all. The
-only noticeable changes are in an analysis, such as this one, that takes place
-over time.
+in the final analysis. I included a bar on the graph for each currency that includes
+the median of the data, along with the upper and lower quartiles. The lines
+were almost completely straight, as the average from month to month remained
+relatively at the same value. For example, for Paris Cheque Buying rates, the
+lowest point of value was 386.167, while the highest was 388.563. There was only
+a 2-point difference between the peak and the trough of the data over a span of
+almost two full years. The median of Paris Cheque was 387.197.
+On the other hand, in both London Cheque and Vienna & Trieste Cheque, there were
+some fluctuations in the line on the graph, despite the majority of the line remaining
+ a relatively flat line.
 
 I was faced with some limitations, however, within my analysis. Some portions of
 the "To-day's Exchange Quotations" chart had dashes (-) or double dashes (--) to
@@ -113,24 +115,24 @@ spots where numerical values should go is illegibility of the microfilm scan of
 the Egyptian Gazette. If somebody performed a microfilm scan poorly, and then was
 unable to utilize OCR with AABBY FineReader to scan the .jpeg image, then it is
 likely that when the original analyst of a specific issue of the Egyptian Gazette
-would not have been able to translate what the image said into XML text.
-
-Another issue that I came to during my analysis of the Egyptian Gazette is that
-when I finally had all of my data collected from the "To-day's Exchange Quotations"
-chart, is that it was difficult to create a visualization of the data. Tableau,
-a program specifically designed for creating these types of visualizations, would
-not let me import any sort of file in order for me to create an image with their
-software. Another problem that arose was the difficulty of understanding the
-chart that I could produce within Excel. Since my analysis produced a lot of data,
-Excel was overwhelmed, and no matter what type of graph I chose, they were neither
-pleasing to the eye nor easy to read and comprehend the data.
+would not have been able to translate what the image said into XML text. I eventually
+removed the outliers or null data in order to have the most accurate, precise data
+featured in my data visualization.
 
 All in all, I believe that my analysis is important to see how much purchasing power
 different currencies had at the turn of the twentieth century. It shows how much
 European influence that was present in Egypt during these years. This shows to me
 that there were many travelers at this time, enough at least that a table of the
-exchange rates of the currencies were included in the local paper. I really enjoyed
-conducting this analysis, and though it was a lot of work, I found that in the
-end the work is very rewarding. It is very interesting to see that with the
+exchange rates of the currencies were included in the local paper. My main goal
+was to see if there were any changes in value of currency based on time of year
+or based on different events happening in the world around the time of the analysis,
+but no correlation was found between either of those factors and the value of the
+currencies. This doesn't mean that the analysis was a failure at all, of course;
+conversely, it means that my hypothesis was incorrect and we learned something
+different about the financial climate in Europe at the turn of the 20th century.
+I really enjoyed conducting this analysis, and though it was a lot of work, I found
+that in the end the work is very rewarding. It is very interesting to see that with the
 technology available today, we can find out a lot about Egypt from over a
 century ago.
+
+I have attached both a .jpg and the actual Tableau Workbook file for each graph.
