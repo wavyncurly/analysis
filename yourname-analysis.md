@@ -1,8 +1,9 @@
 ---
 layout: page
+subheadline: "Your name"
 title:
-author:
-permalink: /analysis/2017/yourname-analysis
+author: YourName
+permalink: /analysis/2017/surname-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
