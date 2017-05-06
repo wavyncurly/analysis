@@ -1,0 +1,22 @@
+---
+layout: page
+subheadline: "Gretchen Sandorf"
+title: "Trade and evolution of royalty"
+date: 2016-04-24
+author: GretchenSandorf
+permalink: /analysis/2017/sandorf-analysis
+header:
+  image_fullwidth: front-page.jpg
+---
+I chose to do my analysis project on royal celebrations and the significance of royalty in Alexandria Egypt and trade in Egypt because this is an interesting topic to me and every day of my week (July 23-28, 1906) included an advertisement for Prince Line or Royal Insurance Coy or some other advertisement containing information on royalty. The Royal Exchange Assurance began in 1720 and was founded in Great Britain. It started as a joint stock insurance company for ships and other goods while at sea. It was one of two companies to be the first to be given legal status by the Royal Charter. It was founded to give marine insurance (for boats and other vessels) but then expanded for fire and life assurance. It is a brand known for customer service, product enhancement, innovative technology, and human capital.
+
+Across the years, Royal Alexandria has risen and fallen. In 1806, it was a city of 6,000 people and was described as one of the saddest and most deserted place in the world. In 1849, it grew to over 100,000 people. This was due to Mohammed Ali Pasha’s command. He was the founder of modern Egypt. He was also the first non-Christian ruler and a merchant. By 1811, Mohammed Ali was the richest pasha in the empire. When Alexandria became Egypt’s capital (unofficially), London and Paris were to become allies. Alexandria started to become a royal city with the help of Mohammed Ali, who built a ‘Raseltine’ from 1811-1817. A Raseltine was made up of a harem (like a walled convent) and an office and reception building. There are portraits of his family on the walls dedicated to his six years of hard work.
+
+The Royal Insurance Coy advertisement mentions how it is a fire and life assurance company, not just marine assurance, as was mentioned before. The Royal Insurance Company in Egypt was established in 2001 as an Egyptian joint stock company with Egyptian investors and Royal and Sun Alliance Middle East (RSAME). The company works with general insurance that has global methods in risk management. Their parent company is the Royal and Sun Alliance UK, and in 2008, they moved the headquarters to the United Arab Emirates in the Middle East. The main goal of the Royal Insurance Company is to “develop and train underwriters in the Egyptian market in terms of experience and come from the premise that our performance in customer and service based insurance work in a competitive market based on service, which requires a lot of technical skills…”
+-Copyrights © 2015 All Rights Reserved by The App Concept
+
+The Prince Line advertisement is for shipping goods shipped through this vessel. It is a long list of all the different kinds of princes and how much they weighed (in tons) and how it was a ‘good accommodation’ for passengers.  The Prince Steam Shipping Company was started in 1883 with a nominal capital of 250,000 euros. They were ships that were being traded, and the fleet was made up of twenty sailing ships and seventeen ocean-going steamships. The trade records included the Director’s minutes, shareholder’s minutes, annual reports and accounts, registers of shareholders, records of ships movement and freight, and papers detailing some work in Israel. Other papers of the Prince Line Ltd and Rio Cape Line Ltd include files from the ship from the Naval Architect’s and Superintendent’s Departments, charter parties, vessel building agreements and contracts, accounts and records of board and general meetings.
+
+Another reason Mohammed Ali moved to Alexandria was that he wanted to build a modern navy and a commercial city. Although it is not widely known, Alexandria is still Egypt’s most common summer resort. After 1825, there were daily efforts to improve the city by building roads or constructing buildings, and the city was also starting to become more of a Greek city instead of an Egyptian city. In 1839, the trade going through Alexandria was equivalent to all the trade passing through all of Egypt ten years earlier.
+
+Ever since the city was founded in 322 B.C., it has been a huge factor in Mediterranean trade. The port of Alexandria also doubled as a safe spot from the conditions of the island of Pharos, making it practical for merchants to take a break from their travels and trade between the Red Sea and the Mediterranean.
