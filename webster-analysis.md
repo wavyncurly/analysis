@@ -1,4 +1,5 @@
 ---
+layout: page
 author: ErinWebster
 title: Pan-Islamism Across the Globe
 date: 2017-04-20
