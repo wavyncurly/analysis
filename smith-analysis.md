@@ -25,4 +25,4 @@ After this incident, strikers are mentioned as whole more often and never specif
 
 I would conclude that this issue did not resolve itself but was just covered up for a few months because again in July 3, 1905 strikes are mentioned in reference to St. Petersburg.  “A general strike has broken out among the workmen of the docks here. Work is at a complete standstill. 50,000 troops are concentrated in the city.”  (1905-07-04 page 3)  Although this shows us that the strikes are not fully resolved, maybe it does show that the strikes are becoming less frequent.  If people had a strike that was continually failing, it would make sense that they slowed down and went on strike less often.
 
-![Flow Map of Key Events ](smith-analysis-image1.png "Logo Title Text 1")       
+![Flow Map of Key Events](smith-analysis-image1.png "Logo Title Text 1")       
