@@ -12,17 +12,18 @@ tags:
   - Cairo
 image:
   image: Cairo Hotels
-  thumb: [visitList] (<iframe src="https://public.tableau.com/views/visitList/Story1?:showVizHome=no&:embed=true" align="center" width="90%" height="500"/> )
+  thumb: [Hotels in Cairo between 1905-1906](https://www.google.com/maps/@30.0302842,31.1812774,13z/data=!3m1!4b1!4m2!6m1!1s1DunCjoyI8KrRBpKhOk1C7EDsJijzv3J3)
 ---
 
 ## What hotels were visited the most in Cairo Egypt?
 
-[Hotels in Cairo between 1905-1906](https://www.google.com/maps/@30.0302842,31.1812774,13z/data=!3m1!4b1!4m2!6m1!1s1DunCjoyI8KrRBpKhOk1C7EDsJijzv3J3)
-
-
 ### Social and Cultural
 
 From my results, I was able to find that in the summer months the amount of visitors visiting the hotels increased. In Egypt tourism became a vital part of the Egyptian economy after the construction of the Suez Canal had been completed. The hotels included in my results are all along the Nile River and the opening of the Suez canal made it much easier for people to get in and out of Egypt from around the world. >"During the second half of the nineteenth century, a new system had emerged, one that would subsequently be applied to Egypt and Sudan. The new centerpiece of this new structure was the 'Resort'. Resorts were dedicated to tourists".
+
+[visitList](<iframe src="https://public.tableau.com/views/visitList/Story1?:showVizHome=no&:embed=true" align="center" width="90%" height="500"/> )
+
+This visual represents the people that visited the Cairo, Egypt hotels in 1905. 
 
 ### Querying Results and Haptics
 
